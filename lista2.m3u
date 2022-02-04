@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
-#EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-name="Pluto TV Viajes" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Nuevo en Pluto TV", Pluto TV Viajes
+#EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-name="Pluto TV Viajes" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="1", Pluto TV Viajes
 https://stitcher.pluto.tv/stitch/hls/channel/60c343ad476ec00007c2ec1a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50e1f78d-846f-11ec-8c9a-0242ac110003
-#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Estilo de Vida", Pluto TV Cocina
+#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Estilo de Vida", Pluto TV Cocina tvg-chno="2"
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50e1f78d-846f-11ec-8c9a-0242ac110003
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-name="VH1 Classics" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música", VH1 Classics
 https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=50e1f78d-846f-11ec-8c9a-0242ac110003
